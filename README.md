@@ -5,7 +5,7 @@ An ongoing pacman project with AI learning on AWS written in Rust
 ## To-do List
 - [ ] build Pac-man in Rust locally
 - [ ] build Pac-man in AWS
-- [ ] Using Algorithm to allow the agent to paly Pac-man automatically
+- [ ] Using Algorithm to allow the agent to play Pac-man automatically
 - [ ] Train an AI to play Pac-man
   
 ## References
